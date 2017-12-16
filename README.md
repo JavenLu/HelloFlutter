@@ -1,4 +1,4 @@
-# myapp2
+# HelloFlutter
 
 A new Flutter application.
 
